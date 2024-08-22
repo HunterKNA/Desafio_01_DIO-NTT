@@ -1,5 +1,7 @@
 usuarios = []
 
+#Não utilize pessoais dados verdadeiros!
+
 def registrar(username, nome, cpf, email, senha):
     if any(u["username"] == username for u in usuarios):
         print("Esse username já está em uso!")
