@@ -2,6 +2,7 @@
 # Sistema Bancário com Registro e Login
 
 Este projeto implementa um sistema bancário simples em Python, permitindo que os usuários se registrem, façam login e realizem operações bancárias básicas, como depósito, saque e visualização de extratos.
+O projeto utiliza como base o codigo do professor Guilherme Carvalho (https://github.com/guicarvalho), porém com algumas modificações de otimização e acrescimo de funções como "Registro" e "Login".
 
 ## Funcionalidades
 
