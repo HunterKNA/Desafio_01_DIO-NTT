@@ -15,11 +15,11 @@ Este projeto implementa um sistema bancário simples em Python, permitindo que o
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/HunterKNA/Projeto_DIO-NTT.git
+    git clone https://github.com/HunterKNA/Desafio_01_DIO-NTT.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd Projeto_DIO-NTT
+    cd Desafio_01_DIO-NTT
     ```
 3. Execute o script Python:
     ```bash
